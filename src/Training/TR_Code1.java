@@ -4,7 +4,7 @@ package Training;
 //눈의 합이 5가 아니라면 계속 주사위를 돌리고, 눈의 합이 5이면 실행을 멈추는 코드를 작성하여라. 눈의 합이 5가 되는 조합은
 //(1, 4), (4, 1), (2, 3), (3, 2)입니다.
 
-public class Code1 {
+public class TR_Code1 {
     public static void main(String[] args) {
         int dice_1, dice_2;
         while (true) {
