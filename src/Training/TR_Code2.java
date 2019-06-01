@@ -14,7 +14,6 @@ public class TR_Code2 {
             System.out.println("1. 학생수 | 2. 점수입력 | 3. 점수리스트 | 4. 분석 | 5. 종료");
             System.out.println("------------------------------------------------------------");
             System.out.print("선택 > ");
-
             int selectNo = sc.nextInt();
             if(selectNo == 1){
                 System.out.print("학생 수 > ");

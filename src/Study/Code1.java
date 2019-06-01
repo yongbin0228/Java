@@ -25,10 +25,10 @@ public class Code1 {
         }
         System.out.println("오늘 요일 : "+today);
         if(today==Week.SUN){
-            System.out.print("일요일엔 놀아요~");
+            System.out.println("일요일엔 놀아요~");
         }
         else{
-            System.out.print("열심히 자바 공부합니다!");
+            System.out.println("열심히 자바 공부합니다!");
         }
         Week[] days = Week.values();
         for(Week day : days){
@@ -39,4 +39,5 @@ public class Code1 {
     public enum Week{ //열거상수 Week선언
         MON, TUE, WED, THU, FRI, SAT, SUN
     }
+
 }
