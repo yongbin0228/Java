@@ -1,4 +1,4 @@
-package Training.Pack1;
+package Training.TR_Pack1;
 
 public class MemberService {
     boolean login(String a, String b){

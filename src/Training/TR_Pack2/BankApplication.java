@@ -1,4 +1,4 @@
-package Training.Pack2;
+package Training.TR_Pack2;
 
 import java.util.Scanner;
 

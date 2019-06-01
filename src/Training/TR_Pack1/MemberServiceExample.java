@@ -1,4 +1,4 @@
-package Training.Pack1;
+package Training.TR_Pack1;
 
 public class MemberServiceExample {
     public static void main(String[] args) {
